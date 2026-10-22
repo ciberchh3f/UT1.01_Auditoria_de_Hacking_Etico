@@ -1,8 +1,3 @@
----
-title: 'Project documentation template'
-disqus: hackmd
----
-
 UT1.01 - Auditoría de Hacking Ético
 ===
 
