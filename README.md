@@ -5,24 +5,24 @@ disqus: hackmd
 
 UT1.01 - Auditoría de Hacking Ético
 ===
-![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
-![build](https://img.shields.io/appveyor/ci/:user/:repo.svg)
-![chat](https://img.shields.io/discord/:serverId.svg)
 
 ## Table of Contents
 
-[TOC]
 
-## Descripción
+# Índice
 
-If you are a total beginner to this, start here!
+1. [Introducción](#introducción)
+2. [Diseño del plan de auditoría](#diseño-del-plan-de-auditoría)
+3. [Fases y calendario](#fases-y-calendario)
+4. [Valoración de vulnerabilidades](#valoración-de-vulnerabilidades)
+5. [Conclusiones](#conclusiones)
 
-1. Visit hackmd.io
-2. Click "Sign in"
-3. Choose a way to sign in
-4. Start writing note!
+## Introducción
 
-Apartado 1
+Este repositorio contiene la planificación de una auditoria realizada para un caso ficticio a través de sus respectivas fases y 
+su presentación y valoración finales.
+
+Diseño del plan de auditoría
 ---
 
 ```gherkin=
@@ -59,7 +59,7 @@ Feature: Shopping Cart
 
 > Read more about Gherkin here: https://docs.cucumber.io/gherkin/reference/
 
-Apartado 2
+Fases y calendario
 ---
 ```sequence
 Alice->Bob: Hello Bob, how are you?
@@ -71,7 +71,7 @@ Alice->Bob: Where have you been?
 
 > Read more about sequence-diagrams here: http://bramp.github.io/js-sequence-diagrams/
 
-Apartado 3
+Valoración de vulnerabilidades
 ---
 ```mermaid
 gantt
@@ -87,7 +87,7 @@ gantt
 
 > Read more about mermaid here: http://mermaid-js.github.io/mermaid/
 
-## Conclusiones y referencias
+## Conclusiones
 
 :::info
 **Find this document incomplete?** Leave a comment!
