@@ -15,7 +15,7 @@ UT1.01 - Auditoría de Hacking Ético
 ## Introducción
 
 Este repositorio contiene la planificación de una auditoria realizada para un caso ficticio a través de sus respectivas fases y 
-su presentación y valoración finales.
+su posterior presentación y valoración final.
 
 Diseño del plan de auditoría
 ---
