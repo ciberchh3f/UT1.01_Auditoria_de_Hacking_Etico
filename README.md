@@ -142,13 +142,13 @@ gantt
     axisFormat %d/%m
 
     section Auditoría externa
-    Pre-engagement       :a1, 2027-01-11, 3d
+    Pre-engagement       :a1, 2026-10-27, 3d
     Ejecución            :a2, after a1, 8d
     Reporting            :a3, after a2, 3d
     Cierre               :a4, after a3, 1d
 
     section Auditoría interna
-    Pre-engagement       :b1, 2027-02-08, 2d
+    Pre-engagement       :b1, 2026-11-27, 2d
     Ejecución            :b2, after b1, 6d
     Reporting            :b3, after b2, 3d
     Cierre               :b4, after b3, 1d
