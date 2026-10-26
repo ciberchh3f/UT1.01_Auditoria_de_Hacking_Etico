@@ -142,16 +142,16 @@ gantt
     axisFormat %d/%m
 
     section Auditoría externa
-    Pre-engagement y requisitos :a1, 2026-10-26, 3d
+    Pre-engagement y requisitos :a1, 2027-01-11, 3d
     Ejecución de pruebas :a2, after a1, 8d
-    Seguimiento y reuniones :a3, 2026-10-29, 8d
+    Seguimiento y reuniones :a3, 2027-01-14, 8d
     Elaboración del informe :a4, after a2, 3d
     Cierre de la auditoría :a5, after a4, 1d
 
     section Auditoría interna
-    Pre-engagement y requisitos :b1, 2026-11-16, 2d
+    Pre-engagement y requisitos :b1, 2027-02-08, 2d
     Ejecución de pruebas :b2, after b1, 6d
-    Seguimiento y reuniones :b3, 2026-11-18, 6d
+    Seguimiento y reuniones :b3, 2027-02-10, 6d
     Elaboración del informe :b4, after b2, 3d
     Cierre de la auditoría :b5, after b4, 1d
 ```
@@ -222,7 +222,7 @@ El servidor web está expuesto a Internet y contiene una vulnerabilidad de inyec
 
 `CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:N/A:N`
 
-**Puntuación base estimada:** 6,5/10 (Media).
+**Puntuación base estimada:** 7,7/10 (Alta).
 
 **Justificación**
 
