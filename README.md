@@ -137,21 +137,23 @@ Se propone realizar una reunión semanal durante la ejecución de las pruebas. L
 
 ```mermaid
 gantt
-    title Plan de auditoría del primer trimestre
+    title Plan de auditorías
     dateFormat YYYY-MM-DD
     axisFormat %d/%m
 
     section Auditoría externa
-    Pre-engagement       :a1, 2026-10-27, 3d
-    Ejecución            :a2, after a1, 8d
-    Reporting            :a3, after a2, 3d
-    Cierre               :a4, after a3, 1d
+    Pre-engagement y requisitos :a1, 2026-10-26, 3d
+    Ejecución de pruebas :a2, after a1, 8d
+    Seguimiento y reuniones :a3, 2026-10-29, 8d
+    Elaboración del informe :a4, after a2, 3d
+    Cierre de la auditoría :a5, after a4, 1d
 
     section Auditoría interna
-    Pre-engagement       :b1, 2026-11-27, 2d
-    Ejecución            :b2, after b1, 6d
-    Reporting            :b3, after b2, 3d
-    Cierre               :b4, after b3, 1d
+    Pre-engagement y requisitos :b1, 2026-11-16, 2d
+    Ejecución de pruebas :b2, after b1, 6d
+    Seguimiento y reuniones :b3, 2026-11-18, 6d
+    Elaboración del informe :b4, after b2, 3d
+    Cierre de la auditoría :b5, after b4, 1d
 ```
 
 El diagrama muestra una distribución orientativa de las fases. Las actividades de seguimiento se realizarán durante la ejecución de las pruebas, por lo que no constituyen necesariamente un periodo independiente.
