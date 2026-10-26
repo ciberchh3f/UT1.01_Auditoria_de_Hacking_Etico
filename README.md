@@ -288,4 +288,3 @@ Finalmente, se recomienda aplicar los parches disponibles, corregir las vulnerab
 
 - [FIRST - Calculadora CVSS 3.1](https://www.first.org/cvss/calculator/3-1)
 - [FIRST - Especificación CVSS 3.1](https://www.first.org/cvss/v3-1/specification-document)
-- Enunciado de la actividad: UT1.01 - Ejercicio Auditoría de Hacking Ético.
